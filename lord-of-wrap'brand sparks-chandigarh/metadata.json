@@ -1,0 +1,7 @@
+{
+  "name": "Lord of Wrap's Chandigarh",
+  "description": "An ultra-premium, kinetic food delivery experience for Lord of Wrap's Chandigarh featuring 3D interactions, parallax scrolling, and AI assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
